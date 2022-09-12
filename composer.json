@@ -1,0 +1,15 @@
+{
+    "name": "shopeo/emutree",
+    "autoload": {
+        "psr-4": {
+            "Shopeo\\Emutree\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SHOPEO",
+            "email": "hello@shopeo.cn"
+        }
+    ],
+    "require": {}
+}
